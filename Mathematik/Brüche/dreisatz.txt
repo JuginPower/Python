@@ -1,0 +1,6 @@
+
+Welche Art von Dreisatz wollen Sie durchführen?
+
+------------------------------------------------------
+|Proportional = press(p) |Antiproportional = press(a)|
+------------------------------------------------------

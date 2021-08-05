@@ -1,0 +1,11 @@
+from django.shortcuts import render
+from django.contrib.auth.forms import UserCreationForm
+
+
+def register(request):
+
+    form = UserCreationForm()
+
+    return render(request, 'employers/register.html', {'form': form})
+
+

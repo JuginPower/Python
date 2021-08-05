@@ -1,0 +1,1 @@
+delete from indices where Symbol='DAX' between D

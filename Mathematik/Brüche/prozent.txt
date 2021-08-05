@@ -1,0 +1,15 @@
+
+Wilkommen bei der Prozentrechnung!
+
+Hier wird automatisch der Wert berechnet der mit einer 0 gekennzeichnet wird.
+
+Wöhlen Sie etwas aus und folgen Sie einfach den Instruktionen.
+
+-------------------------------------------------------------------------------------
+Tippen Sie "ls" um für den jeweiligen Prozentwert, Grundwert oder gar Prozentsatz,  |
+eine Liste zu erstellen die dann vor der Berechnung zusammen addiert wird.          |
+-------------------------------------------------------------------------------------
+Tippen Sie "z" um in die Zinsrechnung zu wechseln.          |
+--------------------------------------------------------------
+Tippen Sie "w" um direkt mit der Prozentrechnung zu beginnen.|
+--------------------------------------------------------------
